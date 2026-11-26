@@ -1,0 +1,5 @@
+101 Rishabh AB+ Dehradun 3 medium
+102 Srishti O+ Delhi 1 low
+103 Tarun A+ Mumbai 7 high
+104 Tejas O- Lucknow 4 medium
+105 Ritika B+ Chandigarh 9 high
